@@ -63,4 +63,4 @@ int sum (int x, int y ) {
 3. [텍스트] (주소, "부가설명") : 링크 텍스트 위에 커서를 올리면 부가 설명이 말풍선으로 표시됨
 4. <https://www.naver.com>
 5. [네이버](https://www.naver.com)
-6. [네이버](https://www.naver.com, "클릭시 네이버로 이동")
+6. [네이버](https://www.naver.com "클릭시 네이버로 이동")
